@@ -69,7 +69,7 @@ def build_rss(sentences, history):
         )
         title = escape(sentence["de"])
         description_html = (
-            f'<details><summary>Show translation</summary><br><br>'
+            f'<details><summary>Show translation</summary><br><br><br><br>'
             f'{sentence["en"]}<br><br>'
             f'Level: {sentence["level"]} &nbsp;|&nbsp; Grammar: {sentence["grammar"]}'
             f'</details>'
