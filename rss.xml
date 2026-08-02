@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>German Sentence a Day (A2 / low B1)</title>
+    <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
+    <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
+    <language>de</language>
+    <lastBuildDate>Sun, 02 Aug 2026 10:12:05 +0000</lastBuildDate>
+    <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich wohne in Berlin.</title>
+      <description>I live in Berlin.  |  Level: A2  |  Grammar: present_tense_basic</description>
+      <pubDate>Sun, 02 Aug 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-08-02-1</guid>
+    </item>
+  </channel>
+</rss>
