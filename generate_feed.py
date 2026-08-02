@@ -69,8 +69,9 @@ def build_rss(sentences, history):
         )
         title = escape(sentence["de"])
         description_html = (
-            f'<details><summary>Show translation</summary>'
-            f'{sentence["en"]}  |  Level: {sentence["level"]}  |  Grammar: {sentence["grammar"]}'
+            f'<details><summary>Show translation</summary><br><br>'
+            f'{sentence["en"]}<br><br>'
+            f'Level: {sentence["level"]} &nbsp;|&nbsp; Grammar: {sentence["grammar"]}'
             f'</details>'
         )
         guid = f'{entry["date"]}-{sentence["id"]}'
@@ -80,7 +81,6 @@ def build_rss(sentences, history):
       <pubDate>{format_datetime(pub_dt)}</pubDate>
       <guid isPermaLink="false">{guid}</guid>
     </item>""")
-
     now = format_datetime(datetime.now(timezone.utc))
     items_block = "\n".join(items_xml)
 
