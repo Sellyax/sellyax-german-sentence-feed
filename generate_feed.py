@@ -67,17 +67,19 @@ def build_rss(sentences, history):
         pub_dt = datetime.fromisoformat(entry["date"]).replace(
             hour=6, tzinfo=timezone.utc
         )
-        title = escape(sentence["de"])
-        description = escape(
-            f'{sentence["en"]}  |  Level: {sentence["level"]}  |  Grammar: {sentence["grammar"]}'
-        )
-        guid = f'{entry["date"]}-{sentence["id"]}'
-        items_xml.append(f"""    <item>
-      <title>{title}</title>
-      <description>{description}</description>
-      <pubDate>{format_datetime(pub_dt)}</pubDate>
-      <guid isPermaLink="false">{guid}</guid>
-    </item>""")
+      title = escape(sentence["de"])
+   description_html = (
+       f'<details><summary>Show translation</summary>'
+       f'{sentence["en"]}  |  Level: {sentence["level"]}  |  Grammar: {sentence["grammar"]}'
+       f'</details>'
+   )
+   guid = f'{entry["date"]}-{sentence["id"]}'
+   items_xml.append(f"""    <item>
+     <title>{title}</title>
+     <description><![CDATA[{description_html}]]></description>
+     <pubDate>{format_datetime(pub_dt)}</pubDate>
+     <guid isPermaLink="false">{guid}</guid>
+   </item>""")
 
     now = format_datetime(datetime.now(timezone.utc))
     items_block = "\n".join(items_xml)
