@@ -1,0 +1,49 @@
+[
+  {"id": 1, "movement": "Deadlift", "cue": "Push your hips back, keep the kettlebell close, and stand up by driving through your heels.", "category": "hinge", "level": "beginner"},
+  {"id": 2, "movement": "Sumo Deadlift", "cue": "Take a wide stance, toes turned out, and push your knees out as you pull.", "category": "hinge", "level": "beginner"},
+  {"id": 3, "movement": "Single-Leg Deadlift", "cue": "Hinge at the hip on one leg, keeping your back flat and hips square.", "category": "hinge", "level": "intermediate"},
+  {"id": 4, "movement": "Good Morning", "cue": "Keep a soft bend in the knees and hinge forward with a flat back.", "category": "hinge", "level": "intermediate"},
+  {"id": 5, "movement": "Two-Hand Swing", "cue": "Hike the bell back like a football snap, then snap your hips forward hard.", "category": "hinge", "level": "beginner"},
+
+  {"id": 6, "movement": "Goblet Squat", "cue": "Hold the bell at your chest and sit down between your knees, elbows inside.", "category": "squat", "level": "beginner"},
+  {"id": 7, "movement": "Front Squat", "cue": "Rack the bells at your shoulders and keep your chest tall through the squat.", "category": "squat", "level": "intermediate"},
+  {"id": 8, "movement": "Sumo Squat", "cue": "Take a wide stance and push your knees out as you sit down.", "category": "squat", "level": "beginner"},
+  {"id": 9, "movement": "Cossack Squat", "cue": "Shift your weight to one side and sit back while keeping the other leg straight.", "category": "squat", "level": "intermediate"},
+  {"id": 10, "movement": "Squat to Press", "cue": "Stand up out of the squat and press the bell overhead in one smooth motion.", "category": "squat", "level": "intermediate"},
+
+  {"id": 11, "movement": "Strict Press", "cue": "Brace your core and press straight up without leaning back.", "category": "press", "level": "beginner"},
+  {"id": 12, "movement": "Push Press", "cue": "Dip slightly at the knees, then drive up and press the bell overhead.", "category": "press", "level": "intermediate"},
+  {"id": 13, "movement": "Bottoms-Up Press", "cue": "Grip the handle tight and press slowly to keep the bell from tipping.", "category": "press", "level": "advanced"},
+  {"id": 14, "movement": "Half-Kneeling Press", "cue": "Kneel on one knee and press the bell up without arching your lower back.", "category": "press", "level": "intermediate"},
+  {"id": 15, "movement": "Thruster", "cue": "Squat down, then use the upward drive to press the bell overhead.", "category": "press", "level": "intermediate"},
+
+  {"id": 16, "movement": "Bent-Over Row", "cue": "Hinge forward with a flat back and pull the bell to your hip.", "category": "pull", "level": "beginner"},
+  {"id": 17, "movement": "Renegade Row", "cue": "Hold a plank on the bells and row one up without twisting your hips.", "category": "pull", "level": "advanced"},
+  {"id": 18, "movement": "High Pull", "cue": "Pull the bell up close to your body, leading with your elbow.", "category": "pull", "level": "intermediate"},
+  {"id": 19, "movement": "Single-Arm Row", "cue": "Brace on a bench and pull the bell straight up to your ribs.", "category": "pull", "level": "beginner"},
+  {"id": 20, "movement": "Upright Row", "cue": "Pull the bell up close to your body to about chest height.", "category": "pull", "level": "beginner"},
+
+  {"id": 21, "movement": "Farmer's Carry", "cue": "Hold a bell in each hand and walk tall with your shoulders back.", "category": "carry", "level": "beginner"},
+  {"id": 22, "movement": "Suitcase Carry", "cue": "Carry one bell at your side and resist leaning toward it.", "category": "carry", "level": "beginner"},
+  {"id": 23, "movement": "Rack Carry", "cue": "Hold the bell at your shoulder and walk without letting it drift outward.", "category": "carry", "level": "intermediate"},
+  {"id": 24, "movement": "Overhead Carry", "cue": "Lock the bell out overhead and walk while keeping your ribs pulled down.", "category": "carry", "level": "intermediate"},
+  {"id": 25, "movement": "Waiter's Walk", "cue": "Balance the bell overhead on an open palm and walk slowly and controlled.", "category": "carry", "level": "advanced"},
+
+  {"id": 26, "movement": "Russian Twist", "cue": "Sit back slightly and rotate the bell side to side under control.", "category": "core", "level": "beginner"},
+  {"id": 27, "movement": "Plank Pull-Through", "cue": "In a plank, drag the bell under your body from side to side.", "category": "core", "level": "intermediate"},
+  {"id": 28, "movement": "Halo", "cue": "Circle the bell around your head, keeping your core tight and ribs down.", "category": "core", "level": "beginner"},
+  {"id": 29, "movement": "Windmill", "cue": "Press the bell overhead, then hinge sideways while keeping your eyes on it.", "category": "core", "level": "advanced"},
+  {"id": 30, "movement": "Sit-Up to Press", "cue": "Sit up holding the bell at your chest, then press it overhead at the top.", "category": "core", "level": "intermediate"},
+
+  {"id": 31, "movement": "Single-Arm Swing", "cue": "Swing the bell between your legs, then snap your hips to send it forward.", "category": "ballistic", "level": "intermediate"},
+  {"id": 32, "movement": "Alternating Swing", "cue": "Switch hands at the top of the swing without breaking your rhythm.", "category": "ballistic", "level": "intermediate"},
+  {"id": 33, "movement": "Clean", "cue": "Pull the bell up close and let it rotate softly into the rack position.", "category": "ballistic", "level": "intermediate"},
+  {"id": 34, "movement": "Snatch", "cue": "Pull the bell up in one motion and punch your hand through at the top.", "category": "ballistic", "level": "advanced"},
+  {"id": 35, "movement": "Clean and Press", "cue": "Clean the bell to your shoulder, then press it overhead in a second step.", "category": "ballistic", "level": "intermediate"},
+
+  {"id": 36, "movement": "Turkish Get-Up", "cue": "Keep your eyes on the bell the whole way from lying down to standing.", "category": "complex", "level": "advanced"},
+  {"id": 37, "movement": "Man Maker", "cue": "Row each side, then squat and press the bells overhead in one sequence.", "category": "complex", "level": "advanced"},
+  {"id": 38, "movement": "Around the World", "cue": "Pass the bell around your waist, keeping your core braced throughout.", "category": "complex", "level": "beginner"},
+  {"id": 39, "movement": "Figure 8", "cue": "Pass the bell between and around your legs in a smooth figure-eight pattern.", "category": "complex", "level": "beginner"},
+  {"id": 40, "movement": "Devil's Press", "cue": "Burpee down, then swing the bells up into an overhead press.", "category": "complex", "level": "advanced"}
+]
