@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kettlebell Movement a Day</title>
+    <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
+    <description>One kettlebell movement a day with a short coaching cue.</description>
+    <language>en</language>
+    <lastBuildDate>Tue, 04 Aug 2026 18:17:17 +0000</lastBuildDate>
+    <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deadlift</title>
+      <description><![CDATA[Push your hips back, keep the kettlebell close, and stand up by driving through your heels.<br><br>Category: hinge &nbsp;|&nbsp; Level: beginner]]></description>
+      <pubDate>Tue, 04 Aug 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-08-04-1</guid>
+    </item>
+  </channel>
+</rss>
