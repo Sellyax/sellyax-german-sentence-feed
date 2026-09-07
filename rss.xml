@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 06 Sep 2026 10:33:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:57:14 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich glaube fest daran, dass er in dieser schwierigen Situation die richtige Entscheidung getroffen hat.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I firmly believe that he made the right decision in this difficult situation.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
+      <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-07-37</guid>
+    </item>
     <item>
       <title>Er kommt heute wieder etwas später zur Arbeit, weil der Bus schon zum dritten Mal Verspätung hat.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He's coming to work a bit late again today, because the bus is delayed for the third time already.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>You really have to get up early tomorrow, because the train leaves the station at seven o'clock already.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
       <pubDate>Sun, 09 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-09-8</guid>
-    </item>
-    <item>
-      <title>Ich kann seit meiner Kindheit gut schwimmen, aber im kalten Meer schwimme ich trotzdem nur sehr ungern.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I've been able to swim well since childhood, but I still don't really like swimming in the cold sea.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
-      <pubDate>Sat, 08 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-08-7</guid>
     </item>
   </channel>
 </rss>
