@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 08 Sep 2026 10:53:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:57:42 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir hoffen wirklich sehr, dass das Wetter am Wochenende für unseren Ausflug gut wird.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We really hope that the weather will be good for our trip at the weekend.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
+      <pubDate>Wed, 09 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-09-39</guid>
+    </item>
     <item>
       <title>Sie hat mir am Telefon gesagt, dass sie morgen Nachmittag mit dem Zug ankommt.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She told me on the phone that she'll be arriving tomorrow afternoon by train.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Unfortunately he isn't allowed to go out today, because he hasn't finished his homework for school yet.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
       <pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-11-10</guid>
-    </item>
-    <item>
-      <title>Wir wollen morgen Abend zusammen ins Kino gehen und danach vielleicht noch etwas in der Stadt essen.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We want to go to the cinema together tomorrow evening and maybe eat something in town afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
-      <pubDate>Mon, 10 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-10-9</guid>
     </item>
   </channel>
 </rss>
