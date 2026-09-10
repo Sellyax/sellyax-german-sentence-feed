@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 09 Sep 2026 10:57:42 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:54:22 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Er weiß mittlerweile ganz genau, dass er bei diesem Projekt einen großen Fehler gemacht hat.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now knows very well that he made a big mistake with this project.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
+      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-10-40</guid>
+    </item>
     <item>
       <title>Wir hoffen wirklich sehr, dass das Wetter am Wochenende für unseren Ausflug gut wird.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We really hope that the weather will be good for our trip at the weekend.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>According to her mother, she's supposed to do her homework first before she's allowed to play outside with her friends.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
       <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-12-11</guid>
-    </item>
-    <item>
-      <title>Er darf heute leider nicht ausgehen, weil er seine Hausaufgaben für die Schule noch nicht fertig gemacht hat.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Unfortunately he isn't allowed to go out today, because he hasn't finished his homework for school yet.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
-      <pubDate>Tue, 11 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-11-10</guid>
     </item>
   </channel>
 </rss>
