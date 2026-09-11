@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 10 Sep 2026 10:54:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 10:52:30 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich finde ehrlich gesagt, dass Deutsch gar nicht so schwer ist, wie viele Leute immer behaupten.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Honestly, I think German isn't as difficult as many people always claim.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
+      <pubDate>Fri, 11 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-11-41</guid>
+    </item>
     <item>
       <title>Er weiß mittlerweile ganz genau, dass er bei diesem Projekt einen großen Fehler gemacht hat.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now knows very well that he made a big mistake with this project.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I would like a glass of water, please, and maybe also a piece of cake, if that's still possible today.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
       <pubDate>Thu, 13 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-13-12</guid>
-    </item>
-    <item>
-      <title>Sie soll laut ihrer Mutter zuerst ihre Hausaufgaben machen, bevor sie mit ihren Freunden draußen spielen darf.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>According to her mother, she's supposed to do her homework first before she's allowed to play outside with her friends.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
-      <pubDate>Wed, 12 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-12-11</guid>
     </item>
   </channel>
 </rss>
