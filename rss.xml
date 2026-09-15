@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 14 Sep 2026 12:12:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 11:21:56 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wenn es morgen wie angekündigt stark regnet, bleiben wir wahrscheinlich lieber den ganzen Tag zu Hause.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>If it rains heavily tomorrow as forecast, we'll probably rather stay home all day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
+      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-15-45</guid>
+    </item>
     <item>
       <title>Ruf mich bitte sofort an, wenn du sicher am Bahnhof in der Stadt angekommen bist.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Please call me right away when you've arrived safely at the station in town.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She already got up at six o'clock this morning, because she wanted to go jogging before work.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
       <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-17-16</guid>
-    </item>
-    <item>
-      <title>Er hat gestern beim Einkaufen sein Handy verloren und musste den ganzen Abend danach suchen.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He lost his phone while shopping yesterday and had to search for it the whole evening afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
-      <pubDate>Sun, 16 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-16-15</guid>
     </item>
   </channel>
 </rss>
