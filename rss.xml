@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:06:30 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich bin jedes Mal richtig glücklich, wenn im Frühling endlich wieder die Sonne stärker scheint.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I'm really happy every time the sun finally shines more strongly again in spring.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
+      <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-16-46</guid>
+    </item>
     <item>
       <title>Wenn es morgen wie angekündigt stark regnet, bleiben wir wahrscheinlich lieber den ganzen Tag zu Hause.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>If it rains heavily tomorrow as forecast, we'll probably rather stay home all day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Have you already read the new book by your favourite author, or do you still want to buy it first?<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
       <pubDate>Tue, 18 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-18-17</guid>
-    </item>
-    <item>
-      <title>Sie ist heute Morgen schon um sechs Uhr aufgestanden, weil sie noch vor der Arbeit joggen wollte.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She already got up at six o'clock this morning, because she wanted to go jogging before work.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
-      <pubDate>Mon, 17 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-17-16</guid>
     </item>
   </channel>
 </rss>
