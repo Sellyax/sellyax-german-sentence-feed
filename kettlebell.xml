@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Sep 2026 11:36:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 11:23:44 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Good Morning</title>
+      <description><![CDATA[Keep a soft bend in the knees and hinge forward with a flat back.<br><br>Category: hinge &nbsp;|&nbsp; Level: intermediate]]></description>
+      <pubDate>Wed, 16 Sep 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-16-4</guid>
+    </item>
     <item>
       <title>Single-Leg Deadlift</title>
       <description><![CDATA[Hinge at the hip on one leg, keeping your back flat and hips square.<br><br>Category: hinge &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Squat down, then use the upward drive to press the bell overhead.<br><br>Category: press &nbsp;|&nbsp; Level: intermediate]]></description>
       <pubDate>Tue, 18 Aug 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-18-15</guid>
-    </item>
-    <item>
-      <title>Half-Kneeling Press</title>
-      <description><![CDATA[Kneel on one knee and press the bell up without arching your lower back.<br><br>Category: press &nbsp;|&nbsp; Level: intermediate]]></description>
-      <pubDate>Mon, 17 Aug 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-17-14</guid>
     </item>
   </channel>
 </rss>
