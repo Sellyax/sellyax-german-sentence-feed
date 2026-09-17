@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 16 Sep 2026 11:23:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 11:32:27 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Two-Hand Swing</title>
+      <description><![CDATA[Hike the bell back like a football snap, then snap your hips forward hard.<br><br>Category: hinge &nbsp;|&nbsp; Level: beginner]]></description>
+      <pubDate>Thu, 17 Sep 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-17-5</guid>
+    </item>
     <item>
       <title>Good Morning</title>
       <description><![CDATA[Keep a soft bend in the knees and hinge forward with a flat back.<br><br>Category: hinge &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Hinge forward with a flat back and pull the bell to your hip.<br><br>Category: pull &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Wed, 19 Aug 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-19-16</guid>
-    </item>
-    <item>
-      <title>Thruster</title>
-      <description><![CDATA[Squat down, then use the upward drive to press the bell overhead.<br><br>Category: press &nbsp;|&nbsp; Level: intermediate]]></description>
-      <pubDate>Tue, 18 Aug 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-18-15</guid>
     </item>
   </channel>
 </rss>
