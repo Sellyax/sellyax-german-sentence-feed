@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 18 Sep 2026 10:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 10:32:32 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Berlin ist natürlich viel größer als Wigan, aber beide Städte haben trotzdem ihren ganz eigenen Charme.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Berlin is of course much bigger than Wigan, but both cities still have their own particular charm.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
+      <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-19-49</guid>
+    </item>
     <item>
       <title>Wir machen am Sonntag ein schönes Picknick im Park, wenn das Wetter dafür schön genug ist.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We're having a nice picnic in the park on Sunday, if the weather is nice enough for it.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She calls her mother almost every evening and then tells her all about her day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
       <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-21-20</guid>
-    </item>
-    <item>
-      <title>Ich stehe jeden Tag um sieben Uhr auf und mache mir danach sofort einen starken Kaffee.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I get up at seven every day and immediately make myself a strong coffee afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
-      <pubDate>Thu, 20 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-20-19</guid>
     </item>
   </channel>
 </rss>
