@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 19 Sep 2026 10:32:32 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:55:26 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dieser Kaffee aus der neuen Rösterei schmeckt mir eindeutig viel besser als der alte aus dem Supermarkt.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>This coffee from the new roastery clearly tastes much better to me than the old one from the supermarket.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
+      <pubDate>Sun, 20 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-20-50</guid>
+    </item>
     <item>
       <title>Berlin ist natürlich viel größer als Wigan, aber beide Städte haben trotzdem ihren ganz eigenen Charme.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Berlin is of course much bigger than Wigan, but both cities still have their own particular charm.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>In the evening we always close all the windows, because otherwise it gets too cold in the living room.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
       <pubDate>Sat, 22 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-22-21</guid>
-    </item>
-    <item>
-      <title>Sie ruft ihre Mutter fast jeden Abend an und erzählt ihr dann alles über ihren Tag.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She calls her mother almost every evening and then tells her all about her day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
-      <pubDate>Fri, 21 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-21-20</guid>
     </item>
   </channel>
 </rss>
