@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 21 Sep 2026 12:20:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 11:12:23 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Das ist ehrlich gesagt das schönste Foto, das ich seit unserem letzten gemeinsamen Urlaub gemacht habe.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Honestly, that's the nicest photo I've taken since our last holiday together.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
+      <pubDate>Tue, 22 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-22-52</guid>
+    </item>
     <item>
       <title>Der Winter ist hier im Norden meistens deutlich kälter als der Herbst, besonders in den Abendstunden.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Winter here in the north is usually noticeably colder than autumn, especially in the evening hours.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Are you coming along with us to the restaurant tonight, or have you already made other plans?<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
       <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-24-23</guid>
-    </item>
-    <item>
-      <title>Er räumt sein Zimmer normalerweise samstags auf, bevor seine Freunde am Nachmittag zu Besuch kommen.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He usually tidies up his room on Saturdays before his friends come to visit in the afternoon.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
-      <pubDate>Sun, 23 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-23-22</guid>
     </item>
   </channel>
 </rss>
