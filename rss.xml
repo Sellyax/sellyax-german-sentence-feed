@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:03:34 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Er läuft mittlerweile deutlich schneller als ich, obwohl wir vor einem Jahr noch gleich schnell waren.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now runs noticeably faster than me, even though we were equally fast a year ago.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
+      <pubDate>Wed, 23 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-23-53</guid>
+    </item>
     <item>
       <title>Das ist ehrlich gesagt das schönste Foto, das ich seit unserem letzten gemeinsamen Urlaub gemacht habe.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Honestly, that's the nicest photo I've taken since our last holiday together.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>In the evening after work I like watching a bit of TV before I go to bed tired.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
       <pubDate>Tue, 25 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-25-24</guid>
-    </item>
-    <item>
-      <title>Kommst du heute Abend mit uns ins Restaurant mit, oder hast du schon andere Pläne gemacht?</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Are you coming along with us to the restaurant tonight, or have you already made other plans?<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
-      <pubDate>Mon, 24 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-24-23</guid>
     </item>
   </channel>
 </rss>
