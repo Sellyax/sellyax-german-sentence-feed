@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Tue, 22 Sep 2026 11:27:19 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:24:59 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Strict Press</title>
+      <description><![CDATA[Brace your core and press straight up without leaning back.<br><br>Category: press &nbsp;|&nbsp; Level: beginner]]></description>
+      <pubDate>Wed, 23 Sep 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-23-11</guid>
+    </item>
     <item>
       <title>Squat to Press</title>
       <description><![CDATA[Stand up out of the squat and press the bell overhead in one smooth motion.<br><br>Category: squat &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Carry one bell at your side and resist leaning toward it.<br><br>Category: carry &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Tue, 25 Aug 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-25-22</guid>
-    </item>
-    <item>
-      <title>Farmer's Carry</title>
-      <description><![CDATA[Hold a bell in each hand and walk tall with your shoulders back.<br><br>Category: carry &nbsp;|&nbsp; Level: beginner]]></description>
-      <pubDate>Mon, 24 Aug 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-24-21</guid>
     </item>
   </channel>
 </rss>
