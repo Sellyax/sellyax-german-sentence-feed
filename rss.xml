@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:03:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 11:21:27 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Das war wirklich der beste Tag meines ganzen Lebens, und ich werde ihn niemals vergessen.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>That was truly the best day of my whole life, and I will never forget it.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
+      <pubDate>Thu, 24 Sep 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-24-54</guid>
+    </item>
     <item>
       <title>Er läuft mittlerweile deutlich schneller als ich, obwohl wir vor einem Jahr noch gleich schnell waren.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now runs noticeably faster than me, even though we were equally fast a year ago.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I've been looking forward to the long weekend for weeks, because we can finally go away then.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: reflexive_verbs</details>]]></description>
       <pubDate>Wed, 26 Aug 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-26-25</guid>
-    </item>
-    <item>
-      <title>Ich sehe abends nach der Arbeit gern ein bisschen fern, bevor ich müde ins Bett gehe.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>In the evening after work I like watching a bit of TV before I go to bed tired.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
-      <pubDate>Tue, 25 Aug 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-25-24</guid>
     </item>
   </channel>
 </rss>
