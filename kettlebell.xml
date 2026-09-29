@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 28 Sep 2026 13:43:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 12:41:36 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Renegade Row</title>
+      <description><![CDATA[Hold a plank on the bells and row one up without twisting your hips.<br><br>Category: pull &nbsp;|&nbsp; Level: advanced]]></description>
+      <pubDate>Tue, 29 Sep 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-09-29-17</guid>
+    </item>
     <item>
       <title>Bent-Over Row</title>
       <description><![CDATA[Hinge forward with a flat back and pull the bell to your hip.<br><br>Category: pull &nbsp;|&nbsp; Level: beginner]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Circle the bell around your head, keeping your core tight and ribs down.<br><br>Category: core &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Mon, 31 Aug 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-08-31-28</guid>
-    </item>
-    <item>
-      <title>Plank Pull-Through</title>
-      <description><![CDATA[In a plank, drag the bell under your body from side to side.<br><br>Category: core &nbsp;|&nbsp; Level: intermediate]]></description>
-      <pubDate>Sun, 30 Aug 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-08-30-27</guid>
     </item>
   </channel>
 </rss>
