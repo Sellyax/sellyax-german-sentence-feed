@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:26:31 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 13:02:01 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-Arm Row</title>
+      <description><![CDATA[Brace on a bench and pull the bell straight up to your ribs.<br><br>Category: pull &nbsp;|&nbsp; Level: beginner]]></description>
+      <pubDate>Thu, 01 Oct 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-01-19</guid>
+    </item>
     <item>
       <title>High Pull</title>
       <description><![CDATA[Pull the bell up close to your body, leading with your elbow.<br><br>Category: pull &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Sit up holding the bell at your chest, then press it overhead at the top.<br><br>Category: core &nbsp;|&nbsp; Level: intermediate]]></description>
       <pubDate>Wed, 02 Sep 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-02-30</guid>
-    </item>
-    <item>
-      <title>Windmill</title>
-      <description><![CDATA[Press the bell overhead, then hinge sideways while keeping your eyes on it.<br><br>Category: core &nbsp;|&nbsp; Level: advanced]]></description>
-      <pubDate>Tue, 01 Sep 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-01-29</guid>
     </item>
   </channel>
 </rss>
