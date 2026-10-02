@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 01 Oct 2026 12:43:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:07:37 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich hatte gestern leider überhaupt keine Zeit, weil ich den ganzen Tag im Büro arbeiten musste.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Unfortunately I had absolutely no time yesterday, because I had to work in the office all day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
+      <pubDate>Fri, 02 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-02-62</guid>
+    </item>
     <item>
       <title>Es war einmal vor langer Zeit ein kleines Dorf mitten in einem dunklen, geheimnisvollen Wald.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Once upon a time, long ago, there was a small village in the middle of a dark, mysterious forest.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We're not going out again this afternoon, because it's been raining heavily non-stop since this morning.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
       <pubDate>Thu, 03 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-03-33</guid>
-    </item>
-    <item>
-      <title>Er lernt schon seit einem Jahr fleißig Deutsch, weil er später unbedingt in Berlin arbeiten möchte.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He's been diligently learning German for a year, because he really wants to work in Berlin later.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
-      <pubDate>Wed, 02 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-02-32</guid>
     </item>
   </channel>
 </rss>
