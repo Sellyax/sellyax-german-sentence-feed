@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 03 Oct 2026 11:18:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 11:59:07 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir hatten letztes Wochenende wirklich viel Spaß auf der großen Party bei unseren neuen Nachbarn.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We had a lot of fun last weekend at the big party at our new neighbours' place.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
+      <pubDate>Sun, 04 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-04-64</guid>
+    </item>
     <item>
       <title>Sie war als kleines Mädchen sehr glücklich, weil sie jeden Sommer mit ihrer Familie ans Meer fuhr.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>As a little girl she was very happy, because she went to the seaside with her family every summer.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I'm still not buying this beautiful dress, because it's simply too expensive for my budget.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
       <pubDate>Sat, 05 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-05-35</guid>
-    </item>
-    <item>
-      <title>Sie ist heute besonders müde, weil sie letzte Nacht wegen des Sturms sehr schlecht geschlafen hat.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She's especially tired today, because she slept very badly last night due to the storm.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
-      <pubDate>Fri, 04 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-04-34</guid>
     </item>
   </channel>
 </rss>
