@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:25:38 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:13:14 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Overhead Carry</title>
+      <description><![CDATA[Lock the bell out overhead and walk while keeping your ribs pulled down.<br><br>Category: carry &nbsp;|&nbsp; Level: intermediate]]></description>
+      <pubDate>Tue, 06 Oct 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06-24</guid>
+    </item>
     <item>
       <title>Rack Carry</title>
       <description><![CDATA[Hold the bell at your shoulder and walk without letting it drift outward.<br><br>Category: carry &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Clean the bell to your shoulder, then press it overhead in a second step.<br><br>Category: ballistic &nbsp;|&nbsp; Level: intermediate]]></description>
       <pubDate>Mon, 07 Sep 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-07-35</guid>
-    </item>
-    <item>
-      <title>Snatch</title>
-      <description><![CDATA[Pull the bell up in one motion and punch your hand through at the top.<br><br>Category: ballistic &nbsp;|&nbsp; Level: advanced]]></description>
-      <pubDate>Sun, 06 Sep 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-06-34</guid>
     </item>
   </channel>
 </rss>
