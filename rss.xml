@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 13:00:25 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich wusste bis letzte Woche wirklich nicht, dass du schon so lange in dieser Stadt wohnst.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I really didn't know until last week that you've been living in this city for so long.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
+      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-06-66</guid>
+    </item>
     <item>
       <title>Er ging früher jeden Tag zu Fuß zur Arbeit, weil er damals noch kein eigenes Auto hatte.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He used to walk to work every day, because he didn't have his own car back then.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I firmly believe that he made the right decision in this difficult situation.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
       <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-07-37</guid>
-    </item>
-    <item>
-      <title>Er kommt heute wieder etwas später zur Arbeit, weil der Bus schon zum dritten Mal Verspätung hat.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He's coming to work a bit late again today, because the bus is delayed for the third time already.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: weil_clause</details>]]></description>
-      <pubDate>Sun, 06 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-06-36</guid>
     </item>
   </channel>
 </rss>
