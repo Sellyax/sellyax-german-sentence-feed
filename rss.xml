@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 06 Oct 2026 13:00:25 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 12:54:47 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich habe mir letzten Monat endlich ein schönes, neues Auto für die Fahrt zur Arbeit gekauft.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I finally bought myself a nice new car for the drive to work last month.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
+      <pubDate>Wed, 07 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-07-67</guid>
+    </item>
     <item>
       <title>Ich wusste bis letzte Woche wirklich nicht, dass du schon so lange in dieser Stadt wohnst.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I really didn't know until last week that you've been living in this city for so long.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She told me on the phone that she'll be arriving tomorrow afternoon by train.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
       <pubDate>Tue, 08 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-08-38</guid>
-    </item>
-    <item>
-      <title>Ich glaube fest daran, dass er in dieser schwierigen Situation die richtige Entscheidung getroffen hat.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I firmly believe that he made the right decision in this difficult situation.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
-      <pubDate>Mon, 07 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-07-37</guid>
     </item>
   </channel>
 </rss>
