@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:49:42 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir wohnen seit einem Jahr in einer kleinen, gemütlichen Wohnung mitten in der Altstadt.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We've been living in a small, cosy apartment right in the middle of the old town for a year.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
+      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-09-69</guid>
+    </item>
     <item>
       <title>Das ist wirklich ein wunderschöner, großer Garten, besonders im Frühling, wenn alle Blumen blühen.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>That's truly a beautiful, big garden, especially in spring when all the flowers are blooming.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now knows very well that he made a big mistake with this project.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
       <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-10-40</guid>
-    </item>
-    <item>
-      <title>Wir hoffen wirklich sehr, dass das Wetter am Wochenende für unseren Ausflug gut wird.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We really hope that the weather will be good for our trip at the weekend.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
-      <pubDate>Wed, 09 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-09-39</guid>
     </item>
   </channel>
 </rss>
