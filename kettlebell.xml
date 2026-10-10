@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Fri, 09 Oct 2026 13:06:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:22:24 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Halo</title>
+      <description><![CDATA[Circle the bell around your head, keeping your core tight and ribs down.<br><br>Category: core &nbsp;|&nbsp; Level: beginner]]></description>
+      <pubDate>Sat, 10 Oct 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-10-28</guid>
+    </item>
     <item>
       <title>Plank Pull-Through</title>
       <description><![CDATA[In a plank, drag the bell under your body from side to side.<br><br>Category: core &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Pass the bell between and around your legs in a smooth figure-eight pattern.<br><br>Category: complex &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Fri, 11 Sep 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-11-39</guid>
-    </item>
-    <item>
-      <title>Around the World</title>
-      <description><![CDATA[Pass the bell around your waist, keeping your core braced throughout.<br><br>Category: complex &nbsp;|&nbsp; Level: beginner]]></description>
-      <pubDate>Thu, 10 Sep 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-10-38</guid>
     </item>
   </channel>
 </rss>
