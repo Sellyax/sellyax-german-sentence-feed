@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:49:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:07:51 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Er trägt heute einen auffälligen roten Pullover, den ihm seine Schwester letztes Weihnachten geschenkt hat.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Today he's wearing a striking red jumper that his sister gave him for Christmas last year.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
+      <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-10-70</guid>
+    </item>
     <item>
       <title>Wir wohnen seit einem Jahr in einer kleinen, gemütlichen Wohnung mitten in der Altstadt.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We've been living in a small, cosy apartment right in the middle of the old town for a year.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Honestly, I think German isn't as difficult as many people always claim.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
       <pubDate>Fri, 11 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-11-41</guid>
-    </item>
-    <item>
-      <title>Er weiß mittlerweile ganz genau, dass er bei diesem Projekt einen großen Fehler gemacht hat.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He now knows very well that he made a big mistake with this project.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
-      <pubDate>Thu, 10 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-10-40</guid>
     </item>
   </channel>
 </rss>
