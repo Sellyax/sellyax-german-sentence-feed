@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 11 Oct 2026 12:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 14:49:22 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sie hat wunderschöne, lange, braune Haare, die ihr fast bis zur Mitte des Rückens reichen.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She has beautiful, long, brown hair that reaches almost to the middle of her back.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
+      <pubDate>Mon, 12 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-12-72</guid>
+    </item>
     <item>
       <title>Das war wirklich ein sehr interessantes, spannendes Buch, das ich fast in einer Nacht durchgelesen habe.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>That was a truly very interesting, exciting book that I read almost in one night.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>When I have some time in the evening, I most like to read an exciting book in bed.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
       <pubDate>Sun, 13 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-13-43</guid>
-    </item>
-    <item>
-      <title>Sie hat uns gestern versprochen, dass sie uns heute Abend auf jeden Fall noch anruft.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She promised us yesterday that she would definitely still call us this evening.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: dass_clause</details>]]></description>
-      <pubDate>Sat, 12 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-12-42</guid>
     </item>
   </channel>
 </rss>
