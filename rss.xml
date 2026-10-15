@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 14 Oct 2026 11:26:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 11:03:30 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir trinken jeden Morgen zusammen einen starken Kaffee und sprechen dabei über unsere Pläne für den Tag.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Every morning we drink a strong coffee together and talk about our plans for the day while we do.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: present_tense_basic</details>]]></description>
+      <pubDate>Thu, 15 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-15-3</guid>
+    </item>
     <item>
       <title>Sie arbeitet als Lehrerin an einer kleinen Schule und unterrichtet dort jeden Morgen Kinder zwischen sechs und zehn Jahren.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She works as a teacher at a small school and teaches children between six and ten years old there every morning.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: present_tense_basic</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I'm really happy every time the sun finally shines more strongly again in spring.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
       <pubDate>Wed, 16 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-16-46</guid>
-    </item>
-    <item>
-      <title>Wenn es morgen wie angekündigt stark regnet, bleiben wir wahrscheinlich lieber den ganzen Tag zu Hause.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>If it rains heavily tomorrow as forecast, we'll probably rather stay home all day.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
-      <pubDate>Tue, 15 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-15-45</guid>
     </item>
   </channel>
 </rss>
