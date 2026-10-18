@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 17 Oct 2026 10:20:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:37:15 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich lerne seit zwei Jahren Deutsch und übe jeden Abend ein bisschen Grammatik und neue Wörter mit einer App.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I've been learning German for two years and practise a bit of grammar and new words every evening with an app.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: present_tense_basic</details>]]></description>
+      <pubDate>Sun, 18 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-18-6</guid>
+    </item>
     <item>
       <title>Das Wetter ist heute sehr schön, und deshalb wollen viele Leute den ganzen Nachmittag draußen im Garten verbringen.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>The weather is very nice today, so many people want to spend the whole afternoon outside in the garden.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: present_tense_basic</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Berlin is of course much bigger than Wigan, but both cities still have their own particular charm.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
       <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-19-49</guid>
-    </item>
-    <item>
-      <title>Wir machen am Sonntag ein schönes Picknick im Park, wenn das Wetter dafür schön genug ist.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We're having a nice picnic in the park on Sunday, if the weather is nice enough for it.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: wenn_clause</details>]]></description>
-      <pubDate>Fri, 18 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-18-48</guid>
     </item>
   </channel>
 </rss>
