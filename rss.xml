@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:37:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:34:15 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich kann seit meiner Kindheit gut schwimmen, aber im kalten Meer schwimme ich trotzdem nur sehr ungern.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I've been able to swim well since childhood, but I still don't really like swimming in the cold sea.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: modal_verbs</details>]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-19-7</guid>
+    </item>
     <item>
       <title>Ich lerne seit zwei Jahren Deutsch und übe jeden Abend ein bisschen Grammatik und neue Wörter mit einer App.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I've been learning German for two years and practise a bit of grammar and new words every evening with an app.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: present_tense_basic</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>This coffee from the new roastery clearly tastes much better to me than the old one from the supermarket.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
       <pubDate>Sun, 20 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-20-50</guid>
-    </item>
-    <item>
-      <title>Berlin ist natürlich viel größer als Wigan, aber beide Städte haben trotzdem ihren ganz eigenen Charme.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Berlin is of course much bigger than Wigan, but both cities still have their own particular charm.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: comparative_superlative</details>]]></description>
-      <pubDate>Sat, 19 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-19-49</guid>
     </item>
   </channel>
 </rss>
