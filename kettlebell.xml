@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Sun, 18 Oct 2026 10:54:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:57:24 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Man Maker</title>
+      <description><![CDATA[Row each side, then squat and press the bells overhead in one sequence.<br><br>Category: complex &nbsp;|&nbsp; Level: advanced]]></description>
+      <pubDate>Mon, 19 Oct 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-19-37</guid>
+    </item>
     <item>
       <title>Turkish Get-Up</title>
       <description><![CDATA[Keep your eyes on the bell the whole way from lying down to standing.<br><br>Category: complex &nbsp;|&nbsp; Level: advanced]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Take a wide stance and push your knees out as you sit down.<br><br>Category: squat &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Sun, 20 Sep 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-20-8</guid>
-    </item>
-    <item>
-      <title>Front Squat</title>
-      <description><![CDATA[Rack the bells at your shoulders and keep your chest tall through the squat.<br><br>Category: squat &nbsp;|&nbsp; Level: intermediate]]></description>
-      <pubDate>Sat, 19 Sep 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-19-7</guid>
     </item>
   </channel>
 </rss>
