@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:38:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 11:40:25 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devil's Press</title>
+      <description><![CDATA[Burpee down, then swing the bells up into an overhead press.<br><br>Category: complex &nbsp;|&nbsp; Level: advanced]]></description>
+      <pubDate>Thu, 22 Oct 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-22-40</guid>
+    </item>
     <item>
       <title>Figure 8</title>
       <description><![CDATA[Pass the bell between and around your legs in a smooth figure-eight pattern.<br><br>Category: complex &nbsp;|&nbsp; Level: beginner]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Brace your core and press straight up without leaning back.<br><br>Category: press &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Wed, 23 Sep 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-23-11</guid>
-    </item>
-    <item>
-      <title>Squat to Press</title>
-      <description><![CDATA[Stand up out of the squat and press the bell overhead in one smooth motion.<br><br>Category: squat &nbsp;|&nbsp; Level: intermediate]]></description>
-      <pubDate>Tue, 22 Sep 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-22-10</guid>
     </item>
   </channel>
 </rss>
