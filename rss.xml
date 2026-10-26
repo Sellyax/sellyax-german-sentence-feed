@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sun, 25 Oct 2026 10:58:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 12:30:15 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir sind letztes Jahr im Sommer nach Italien gefahren und haben dort zwei wunderschöne Wochen am Meer verbracht.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We went to Italy last summer and spent two wonderful weeks there by the sea.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
+      <pubDate>Mon, 26 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-26-14</guid>
+    </item>
     <item>
       <title>Ich habe gestern Abend einen langen Film gesehen und bin danach viel zu spät ins Bett gegangen.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I watched a long film yesterday evening and went to bed far too late afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We'll arrive at the airport in about an hour, if the traffic on the motorway stays normal.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
       <pubDate>Sun, 27 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-27-57</guid>
-    </item>
-    <item>
-      <title>Es wird laut der Vorhersage morgen den ganzen Nachmittag ziemlich stark regnen, also nimm besser einen Schirm mit.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>According to the forecast, it's going to rain quite heavily all afternoon tomorrow, so better take an umbrella.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
-      <pubDate>Sat, 26 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-26-56</guid>
     </item>
   </channel>
 </rss>
