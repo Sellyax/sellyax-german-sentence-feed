@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 26 Oct 2026 12:30:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 11:48:27 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Er hat gestern beim Einkaufen sein Handy verloren und musste den ganzen Abend danach suchen.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He lost his phone while shopping yesterday and had to search for it the whole evening afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
+      <pubDate>Tue, 27 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-27-15</guid>
+    </item>
     <item>
       <title>Wir sind letztes Jahr im Sommer nach Italien gefahren und haben dort zwei wunderschöne Wochen am Meer verbracht.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We went to Italy last summer and spent two wonderful weeks there by the sea.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She will definitely finish the whole project by Friday, even if she has to work longer for it.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
       <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-28-58</guid>
-    </item>
-    <item>
-      <title>Wir werden in ungefähr einer Stunde am Flughafen ankommen, wenn der Verkehr auf der Autobahn normal bleibt.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We'll arrive at the airport in about an hour, if the traffic on the motorway stays normal.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
-      <pubDate>Sun, 27 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-27-57</guid>
     </item>
   </channel>
 </rss>
