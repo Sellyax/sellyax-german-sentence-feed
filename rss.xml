@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Tue, 27 Oct 2026 11:48:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 12:22:38 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sie ist heute Morgen schon um sechs Uhr aufgestanden, weil sie noch vor der Arbeit joggen wollte.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She already got up at six o'clock this morning, because she wanted to go jogging before work.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
+      <pubDate>Wed, 28 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-28-16</guid>
+    </item>
     <item>
       <title>Er hat gestern beim Einkaufen sein Handy verloren und musste den ganzen Abend danach suchen.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He lost his phone while shopping yesterday and had to search for it the whole evening afterwards.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He'll definitely be really happy when he finds out about our surprise for his birthday.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
       <pubDate>Tue, 29 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-29-59</guid>
-    </item>
-    <item>
-      <title>Sie wird das ganze Projekt bis Freitag definitiv fertig machen, auch wenn sie dafür länger arbeiten muss.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She will definitely finish the whole project by Friday, even if she has to work longer for it.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
-      <pubDate>Mon, 28 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-28-58</guid>
     </item>
   </channel>
 </rss>
