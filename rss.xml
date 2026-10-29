@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 28 Oct 2026 12:22:38 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 12:31:58 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Habt ihr das neue Buch von eurem Lieblingsautor schon gelesen, oder wollt ihr es euch erst noch kaufen?</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Have you already read the new book by your favourite author, or do you still want to buy it first?<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
+      <pubDate>Thu, 29 Oct 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-10-29-17</guid>
+    </item>
     <item>
       <title>Sie ist heute Morgen schon um sechs Uhr aufgestanden, weil sie noch vor der Arbeit joggen wollte.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>She already got up at six o'clock this morning, because she wanted to go jogging before work.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: perfekt</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I'll definitely call you tomorrow morning, as soon as I've finished with work.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
       <pubDate>Wed, 30 Sep 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-09-30-60</guid>
-    </item>
-    <item>
-      <title>Er wird sich bestimmt riesig freuen, wenn er von unserer Überraschung für seinen Geburtstag erfährt.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He'll definitely be really happy when he finds out about our surprise for his birthday.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: future_werden</details>]]></description>
-      <pubDate>Tue, 29 Sep 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-09-29-59</guid>
     </item>
   </channel>
 </rss>
