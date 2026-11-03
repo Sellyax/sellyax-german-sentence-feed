@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Mon, 02 Nov 2026 15:06:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:50:44 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Er räumt sein Zimmer normalerweise samstags auf, bevor seine Freunde am Nachmittag zu Besuch kommen.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He usually tidies up his room on Saturdays before his friends come to visit in the afternoon.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
+      <pubDate>Tue, 03 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-03-22</guid>
+    </item>
     <item>
       <title>Wir machen abends immer alle Fenster zu, weil es sonst zu kalt im Wohnzimmer wird.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>In the evening we always close all the windows, because otherwise it gets too cold in the living room.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He used to walk to work every day, because he didn't have his own car back then.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
       <pubDate>Mon, 05 Oct 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-05-65</guid>
-    </item>
-    <item>
-      <title>Wir hatten letztes Wochenende wirklich viel Spaß auf der großen Party bei unseren neuen Nachbarn.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We had a lot of fun last weekend at the big party at our new neighbours' place.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
-      <pubDate>Sun, 04 Oct 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-10-04-64</guid>
     </item>
   </channel>
 </rss>
