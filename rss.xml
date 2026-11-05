@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:58:04 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 14:18:47 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ich sehe abends nach der Arbeit gern ein bisschen fern, bevor ich müde ins Bett gehe.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>In the evening after work I like watching a bit of TV before I go to bed tired.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
+      <pubDate>Thu, 05 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-05-24</guid>
+    </item>
     <item>
       <title>Kommst du heute Abend mit uns ins Restaurant mit, oder hast du schon andere Pläne gemacht?</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Are you coming along with us to the restaurant tonight, or have you already made other plans?<br><br>Level: A2 &nbsp;|&nbsp; Grammar: separable_verbs</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I finally bought myself a nice new car for the drive to work last month.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
       <pubDate>Wed, 07 Oct 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-07-67</guid>
-    </item>
-    <item>
-      <title>Ich wusste bis letzte Woche wirklich nicht, dass du schon so lange in dieser Stadt wohnst.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>I really didn't know until last week that you've been living in this city for so long.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: praeteritum_common</details>]]></description>
-      <pubDate>Tue, 06 Oct 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-10-06-66</guid>
     </item>
   </channel>
 </rss>
