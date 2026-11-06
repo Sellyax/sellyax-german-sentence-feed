@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One kettlebell movement a day with a short coaching cue.</description>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Nov 2026 14:30:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 14:08:47 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/kettlebell.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Thruster</title>
+      <description><![CDATA[Squat down, then use the upward drive to press the bell overhead.<br><br>Category: press &nbsp;|&nbsp; Level: intermediate]]></description>
+      <pubDate>Fri, 06 Nov 2026 06:10:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-06-15</guid>
+    </item>
     <item>
       <title>Half-Kneeling Press</title>
       <description><![CDATA[Kneel on one knee and press the bell up without arching your lower back.<br><br>Category: press &nbsp;|&nbsp; Level: intermediate]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[Sit back slightly and rotate the bell side to side under control.<br><br>Category: core &nbsp;|&nbsp; Level: beginner]]></description>
       <pubDate>Thu, 08 Oct 2026 06:10:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-08-26</guid>
-    </item>
-    <item>
-      <title>Waiter's Walk</title>
-      <description><![CDATA[Balance the bell overhead on an open palm and walk slowly and controlled.<br><br>Category: carry &nbsp;|&nbsp; Level: advanced]]></description>
-      <pubDate>Wed, 07 Oct 2026 06:10:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-10-07-25</guid>
     </item>
   </channel>
 </rss>
