@@ -5,8 +5,14 @@
     <link>https://Sellyax.github.io/sellyax-german-sentence-feed/</link>
     <description>One German sentence a day at A2 to low-B1 level, with an English translation and grammar tag.</description>
     <language>de</language>
-    <lastBuildDate>Sat, 07 Nov 2026 12:40:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 12:57:35 +0000</lastBuildDate>
     <atom:link href="https://Sellyax.github.io/sellyax-german-sentence-feed/rss.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Wir treffen uns morgen um acht Uhr vor dem Bahnhof und fahren dann zusammen weiter.</title>
+      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We're meeting at eight o'clock tomorrow in front of the station and travelling on together from there.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: reflexive_verbs</details>]]></description>
+      <pubDate>Sun, 08 Nov 2026 06:00:00 +0000</pubDate>
+      <guid isPermaLink="false">2026-11-08-27</guid>
+    </item>
     <item>
       <title>Er interessiert sich schon sein ganzes Leben für Musik und spielt selbst seit Jahren Gitarre.</title>
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>He's been interested in music his whole life and has played guitar himself for years.<br><br>Level: B1 &nbsp;|&nbsp; Grammar: reflexive_verbs</details>]]></description>
@@ -180,12 +186,6 @@
       <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>Today he's wearing a striking red jumper that his sister gave him for Christmas last year.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
       <pubDate>Sat, 10 Oct 2026 06:00:00 +0000</pubDate>
       <guid isPermaLink="false">2026-10-10-70</guid>
-    </item>
-    <item>
-      <title>Wir wohnen seit einem Jahr in einer kleinen, gemütlichen Wohnung mitten in der Altstadt.</title>
-      <description><![CDATA[<details><summary>Show translation</summary><br><br><br><br>We've been living in a small, cosy apartment right in the middle of the old town for a year.<br><br>Level: A2 &nbsp;|&nbsp; Grammar: adjective_endings</details>]]></description>
-      <pubDate>Fri, 09 Oct 2026 06:00:00 +0000</pubDate>
-      <guid isPermaLink="false">2026-10-09-69</guid>
     </item>
   </channel>
 </rss>
